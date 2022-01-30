@@ -8,6 +8,8 @@ Of the 5 competitiors on this team, involvement was only shown by 3... all of wh
   1. Time's sake
   2. Our sanity
 
+In this process we have learnd a lot and would like to continue the previous project, but it would be very difficult for us given the circumstances. MIT iQuHACK will definitely be something prepared for more greatly in the future and will be a recoccurring thing for QCSD.
+
 The previous project was as follows:
   >An adaptation of Amit Patel's [mapgen2](https://github.com/redblobgames/mapgen2/) using quantum hardware for randomness. Inspired by [Amit Patel](https://twitter.com/redblobgames)'s article [Polygonal Map Generation for Games](http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation), we sought to reimagine and remake this project in Python and utilize the inherent properties of quantum hardware which allow for creating true randomness.
 
